@@ -26,7 +26,7 @@
     "orientation": "portrait"
   },
   "renderMode": "0",
-  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "startScene": "e35387ac-7046-4e1b-9bc2-1e7c731892ed",
   "title": "douyidouwuziqi",
   "webOrientation": "auto",
   "wechatgame": {
@@ -34,7 +34,7 @@
     "appid": "wxfe83573295217e50",
     "isSubdomain": false,
     "orientation": "portrait",
-    "subContext": ""
+    "subContext": "wx-sub-wuziqi"
   },
   "xxteaKey": "775ba01a-1e06-4a",
   "zipCompressJs": true
