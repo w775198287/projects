@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2e35a6e0ebb30f1c1b1ae17766200f1d338986e">
+        <dex dex="/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc6e9fb70967d144cc77b0190db35b9e5cac3941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b68311ed6d0a3d481bcb4f6ec4c5616a621abcf/classes.dex" />
+    </item>
+
+</items>

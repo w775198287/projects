@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jun 25 11:01:05 CST 2018
+2.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/res/mipmap-xxhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b68311ed6d0a3d481bcb4f6ec4c5616a621abcf
+7.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc6e9fb70967d144cc77b0190db35b9e5cac3941/classes.dex
+1.set=DEX
+7.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/res/mipmap-mdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc6e9fb70967d144cc77b0190db35b9e5cac3941
+4.file=/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b68311ed6d0a3d481bcb4f6ec4c5616a621abcf/classes.dex
+0.set=ANDROID_RESOURCE

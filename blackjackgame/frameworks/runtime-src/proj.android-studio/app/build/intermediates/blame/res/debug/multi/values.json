@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/guang/Desktop/projects/cocos2d/blackjackgame/frameworks/runtime-src/proj.android-studio/app/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 45,
+                        "endOffset": 57
+                    }
+                }
+            }
+        ]
+    }
+]
